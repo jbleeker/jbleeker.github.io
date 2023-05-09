@@ -1,5 +1,5 @@
 ---
-permalink: /error.php
+permalink: /index.html
 ---
 
 
