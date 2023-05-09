@@ -1,5 +1,5 @@
 ---
-permalink: /error/404.html
+permalink: /error.php
 ---
 
 
