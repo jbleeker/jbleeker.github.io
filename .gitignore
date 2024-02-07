@@ -21,7 +21,8 @@ Homestead.yaml
 Homestead.json
 /.vagrant
 .phpunit.result.cache
+
+# losse projecten
 flashcards/
-myblog/
 games/
 my-blog/
